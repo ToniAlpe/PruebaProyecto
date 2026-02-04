@@ -17,5 +17,5 @@ Actualmente, el proyecto cuenta con:
 ## 🌳 Historial de Ramas Practicadas
 Para este ejercicio se han utilizado las siguientes ramas:
 * **`main`**: Versión principal y estable.
-* **`experimento-peligroso`**: Rama donde he cometido un error intencional para otra vez volver a la rama mai y deshacer los cambios.
+* **`experimento-peligroso`**: Rama donde he cometido un error intencional para otra vez volver a la rama main y deshacer los cambios.
 
