@@ -14,7 +14,7 @@ Actualmente, el proyecto cuenta con:
 - [x] Resolver posibles conflictos de código en HTML.
 
 ## 🌳 Historial de Ramas Practicadas
-Para este ejercicio se han utilizado (o se pretenden utilizar) las siguientes ramas:
+Para este ejercicio se han utilizado las siguientes ramas:
 * **`main`**: Versión principal y estable.
 * **`experimento-peligroso`**: Rama donde he cometido un error intencional para otra vez volver a la rama mai y deshacer los cambios.
 
