@@ -12,6 +12,7 @@ Actualmente, el proyecto cuenta con:
 - [x] Practicar el uso de `git add`, `git commit` y `git push`.
 - [x] Experimentar con `git merge` para integrar funcionalidades.
 - [x] Resolver posibles conflictos de código en HTML.
+- [x] Configurar exitosamente el SSH (cambio de HTTPS a SSH).
 
 ## 🌳 Historial de Ramas Practicadas
 Para este ejercicio se han utilizado las siguientes ramas:
